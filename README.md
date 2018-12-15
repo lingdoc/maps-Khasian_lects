@@ -3,7 +3,7 @@
 This repository contains QGIS vector files and shapefiles for making maps of the Khasian languages in Meghalaya. It also contains a single PNG map of these languages. The data for these maps comes from fieldwork on these languages conducted by Hiram Ring, with reference to existing sources such as maps in publications by Anne Daladier and Seino van Breugel.
 
  You can cite this repository as below, by changing the access date:
-- Ring, Hiram. 2018. Khasian languages (map). https://github.com/lingdoc/maps-Khasian_lgs (accessed 24 Oct 2018).
+- Ring, Hiram. 2018. Maps of the Khasian Languages. https://github.com/lingdoc/maps-Khasian_lgs (accessed 24 Oct 2018).
 
 ![Map of Khasian Languages](Khasian_lgs.png)
 
